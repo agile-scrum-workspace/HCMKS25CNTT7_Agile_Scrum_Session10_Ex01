@@ -23,7 +23,7 @@ Dự án tập trung vào việc quản lý tài liệu và quy trình làm vi�
 
 1. Clone repository về máy tính:
    ```bash
-   git clone https://github.com/your-username/HCMKS25CNTT7_Agile_Scrum_Session10_Ex01.git
+   git clone https://github.com/agile-scrum-workspace/HCMKS25CNTT7_Agile_Scrum_Session10_Ex01.git
    ```
 
 2. Di chuyển vào thư mục dự án:
